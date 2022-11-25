@@ -1,0 +1,24 @@
+.lead__img-container {
+  max-width: 984px;
+  margin: 64px auto 0;
+}
+
+@media screen and (max-width: 1279px) {
+  .lead__img-container {
+    max-width: 928px;
+    margin-top: 56px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__img-container {
+    max-width: 100%;
+    margin-top: 56px;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .lead__img-container {
+    margin-top: 40px;
+  }
+}
