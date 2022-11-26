@@ -13,12 +13,15 @@
   .intro {
     max-width: 720px;
     margin-top: 88px;
+
   }
 }
 
 @media screen and (max-width: 767px) {
   .intro {
     max-width: 550px;
+    margin-left: 24px;
+    margin-right: 24px;
   }
 }
 
